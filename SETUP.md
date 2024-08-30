@@ -32,7 +32,7 @@ VSCode がまだインストールされていない場合は、[公式サイト
 
 ### 4. サンプルプロジェクトのダウンロード 📒
 1. 以下のリンクからzipファイルをダウンロードしてください:  
-   [chatbot-samples-main.zip](https://github.com/Gohei Kusumi/chatbot-samples/archive/refs/heads/main.zip)
+   [chatbot-samples-main.zip](https://github.com/Gohei/chatbot-samples/archive/refs/heads/main.zip)
 
 2. ダウンロードしたzipファイルを解凍します。
 
